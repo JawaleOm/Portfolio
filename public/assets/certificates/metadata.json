@@ -1,0 +1,93 @@
+[
+  {
+    "id": "codec_internship",
+    "preview_width": 1600,
+    "preview_height": 1000,
+    "thumb_width": 600,
+    "thumb_height": 375,
+    "preview_png": "/assets/certificates/previews/codec_internship.png",
+    "preview_webp": "/assets/certificates/previews/codec_internship.webp",
+    "thumb_png": "/assets/certificates/thumbnails/codec_internship.png",
+    "thumb_webp": "/assets/certificates/thumbnails/codec_internship.webp",
+    "original": "/assets/certificates/original/Codec_Technologies_Internship_Certificate.pdf",
+    "original_pdf": "/assets/certificates/original/Codec_Technologies_Internship_Certificate.pdf"
+  },
+  {
+    "id": "codec_training",
+    "preview_width": 1600,
+    "preview_height": 1131,
+    "thumb_width": 600,
+    "thumb_height": 424,
+    "preview_png": "/assets/certificates/previews/codec_training.png",
+    "preview_webp": "/assets/certificates/previews/codec_training.webp",
+    "thumb_png": "/assets/certificates/thumbnails/codec_training.png",
+    "thumb_webp": "/assets/certificates/thumbnails/codec_training.webp",
+    "original": "/assets/certificates/original/Codec_Technologies_Training_Program.pdf",
+    "original_pdf": "/assets/certificates/original/Codec_Technologies_Training_Program.pdf"
+  },
+  {
+    "id": "itrnity_internship",
+    "preview_width": 1132,
+    "preview_height": 1600,
+    "thumb_width": 424,
+    "thumb_height": 600,
+    "preview_png": "/assets/certificates/previews/itrnity_internship.png",
+    "preview_webp": "/assets/certificates/previews/itrnity_internship.webp",
+    "thumb_png": "/assets/certificates/thumbnails/itrnity_internship.png",
+    "thumb_webp": "/assets/certificates/thumbnails/itrnity_internship.webp",
+    "original": "/assets/certificates/original/Itrnity_Infotech_Internship_Certificate.pdf",
+    "original_pdf": "/assets/certificates/original/Itrnity_Infotech_Internship_Certificate.pdf"
+  },
+  {
+    "id": "itrnity_course",
+    "preview_width": 1600,
+    "preview_height": 1132,
+    "thumb_width": 600,
+    "thumb_height": 424,
+    "preview_png": "/assets/certificates/previews/itrnity_course.png",
+    "preview_webp": "/assets/certificates/previews/itrnity_course.webp",
+    "thumb_png": "/assets/certificates/thumbnails/itrnity_course.png",
+    "thumb_webp": "/assets/certificates/thumbnails/itrnity_course.webp",
+    "original": "/assets/certificates/original/Itrnity_Infotech_Course_Completion_Certificate.pdf",
+    "original_pdf": "/assets/certificates/original/Itrnity_Infotech_Course_Completion_Certificate.pdf"
+  },
+  {
+    "id": "power_bi",
+    "preview_width": 1600,
+    "preview_height": 1237,
+    "thumb_width": 600,
+    "thumb_height": 463,
+    "preview_png": "/assets/certificates/previews/power_bi.png",
+    "preview_webp": "/assets/certificates/previews/power_bi.webp",
+    "thumb_png": "/assets/certificates/thumbnails/power_bi.png",
+    "thumb_webp": "/assets/certificates/thumbnails/power_bi.webp",
+    "original": "/assets/certificates/original/Power_BI_Desktop_Certificate.pdf",
+    "original_pdf": "/assets/certificates/original/Power_BI_Desktop_Certificate.pdf"
+  },
+  {
+    "id": "hackathon_2nd_place",
+    "preview_width": 1600,
+    "preview_height": 1131,
+    "thumb_width": 600,
+    "thumb_height": 424,
+    "preview_png": "/assets/certificates/previews/hackathon_2nd_place.png",
+    "preview_webp": "/assets/certificates/previews/hackathon_2nd_place.webp",
+    "thumb_png": "/assets/certificates/thumbnails/hackathon_2nd_place.png",
+    "thumb_webp": "/assets/certificates/thumbnails/hackathon_2nd_place.webp",
+    "original": "/assets/certificates/original/Sandbox_Hackathon_2026_Certificate.png",
+    "original_pdf": "/assets/certificates/original/Sandbox_Hackathon_2026_Certificate.pdf"
+  },
+  {
+    "id": "vbyld_quiz_participation",
+    "preview_width": 1600,
+    "preview_height": 1349,
+    "thumb_width": 600,
+    "thumb_height": 505,
+    "preview_png": "/assets/certificates/previews/vbyld_quiz_participation.png",
+    "preview_webp": "/assets/certificates/previews/vbyld_quiz_participation.webp",
+    "thumb_png": "/assets/certificates/thumbnails/vbyld_quiz_participation.png",
+    "thumb_webp": "/assets/certificates/thumbnails/vbyld_quiz_participation.webp",
+    "original": "/assets/certificates/original/VBYLD_2026_Quiz_Participation_Certificate.png",
+    "original_pdf": null
+  }
+]

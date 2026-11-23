@@ -1,0 +1,48 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing & coverage
+/coverage
+
+# next.js build outputs
+/.next/
+/out/
+/build
+/dist
+
+# environment variables
+.env
+.env.local
+.env.*.local
+.env*.local
+
+# logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# system & OS
+.DS_Store
+Thumbs.db
+*.pem
+
+# vercel & IDE
+.vercel
+.idea
+.vscode
+*.tsbuildinfo
+next-env.d.ts
+
+# python & compiler caches
+__pycache__/
+*.pyc
+
+# raw assets & testing artifacts
+source-assets/
+public/assets/verification_screenshots/
+verify_*.js
+*.log
+.antigravity/
